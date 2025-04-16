@@ -1,4 +1,4 @@
 # Basics-Of-Programming
-Content : Basic Excersices Codes and Projects Coded in Python
-Course : Basic of Programming course in "Iran Univesirty of Science and Technology"
+Content : Basic Excersices Codes and Projects Coded in Python  <br/>
+Course : Basic of Programming course in "Iran Univesirty of Science and Technology"  <br/>
 Oct 2024 - Feb 2025
