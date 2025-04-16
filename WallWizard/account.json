@@ -1,0 +1,100 @@
+[
+    {
+        "username": "Ehsan",
+        "email": "ehsan@gmail.com",
+        "password": "950ed7afd770aa5857410dde40f62b8d27edd32d9ea73b50595a7c8bc25220a2",
+        "points": 5,
+        "wins": 11,
+        "losses": 9,
+        "play_time": [
+            8,
+            21,
+            28
+        ],
+        "user_ID": 0
+    },
+    {
+        "username": "Ehsan2",
+        "email": "ehsan2@gmail.com",
+        "password": "950ed7afd770aa5857410dde40f62b8d27edd32d9ea73b50595a7c8bc25220a2",
+        "points": -10,
+        "wins": 5,
+        "losses": 7,
+        "play_time": [
+            8,
+            21,
+            30
+        ],
+        "user_ID": 1
+    },
+    {
+        "username": "Imamir_84",
+        "email": "amir@gmail.com",
+        "password": "72d040729794ceccdfb5d835658dd4ab80cb2471a2c148d28d8ee738b407ef14",
+        "points": 5,
+        "wins": 3,
+        "losses": 2,
+        "play_time": [
+            0,
+            0,
+            46
+        ],
+        "user_ID": 2
+    },
+    {
+        "username": "sinagod",
+        "email": "sina85@gmail.com",
+        "password": "9622b0159cb6202d8cbbc055b1f929bd25e1f97da73e05d5423057bc72c9064c",
+        "points": 0,
+        "wins": 0,
+        "losses": 0,
+        "play_time": [
+            0,
+            0,
+            0
+        ],
+        "user_ID": 3
+    },
+    {
+        "username": "sinagod2",
+        "email": "sina852@gmail.com",
+        "password": "9622b0159cb6202d8cbbc055b1f929bd25e1f97da73e05d5423057bc72c9064c",
+        "points": 0,
+        "wins": 0,
+        "losses": 0,
+        "play_time": [
+            0,
+            0,
+            0
+        ],
+        "user_ID": 4
+    },
+    {
+        "username": "alireza",
+        "email": "alireza@gmail.com",
+        "password": "f5801b9cf7d77f2d2a4e17a2f9c64de4da1ab958dc535ea87bc1bc3914accbff",
+        "points": -10,
+        "wins": 2,
+        "losses": 4,
+        "play_time": [
+            0,
+            1,
+            30
+        ],
+        "user_ID": 5
+    },
+    {
+        "username": "alireza2",
+        "email": "Alireza2@gmail.com",
+        "password": "f5801b9cf7d77f2d2a4e17a2f9c64de4da1ab958dc535ea87bc1bc3914accbff",
+        "points": 10,
+        "wins": 3,
+        "losses": 1,
+        "play_time": [
+            0,
+            3,
+            14
+        ],
+        "user_ID": 6
+    }
+]
